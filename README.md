@@ -17,7 +17,3 @@ Using commands such as `ls -la` and `chmod`, I:
 
 ## Outcome
 These changes ensured that only authorized users could read, write, or access sensitive project files, supporting secure file management within the Linux environment.
-
-## Author
-**Taher Mustafa**  
-Google Cybersecurity Professional Certificate
