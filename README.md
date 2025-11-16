@@ -1,7 +1,4 @@
-# File-permissions-in-Linux
-Examined and managed file permissions in a Linux environment for a research team at a large organization.
-
-## Linux File Permissions Management
+# File-Permissions-in-Linux
 
 ## Overview
 This project was part of a Coursera activity focused on managing file permissions in Linux.  
